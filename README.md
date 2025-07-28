@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahsan Abbas
 
-![My Picture](https://i.imgur.com/YOUR_IMAGE_LINK.jpg)
+
 
 🎓 **Software Engineer** | 💡 Problem Solver | 🌍 Based in Pakistan
 
