@@ -34,7 +34,8 @@ I'm **Ahsan Abbas**, a dedicated Software Engineer passionate about building sma
 
 ## 📫 Contact Me
 
-- 📧 Email: ahsanabbas@example.com  
+- 📧 Email: 221387@students.au.edu.pk
+
 - 🌍 Location: Pakistan
 
 ---
