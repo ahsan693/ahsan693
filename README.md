@@ -2,9 +2,9 @@
 
 
 
-🎓 **Software Engineer** | 💡 Problem Solver | 🌍 Based in Pakistan
+🎓 **Full Stack Developer** | 💡 Problem Solver | 🌍 Based in Pakistan
 
-I'm **Ahsan Abbas**, a dedicated Software Engineer passionate about building smart, scalable, and creative software solutions. I thrive on solving complex problems and continuously improving my skills in software development and modern technologies.
+I'm **Ahsan Abbas**, a dedicated developer passionate about building smart, scalable, and creative software solutions. I thrive on solving complex problems and continuously improving my skills in software development and modern technologies.
 
 ---
 
