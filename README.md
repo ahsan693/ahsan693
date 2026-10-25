@@ -2,162 +2,179 @@
 
 ### Full-Stack Web Developer | React & Next.js | Production Web Applications
 
-I’m a Full-Stack Web Developer passionate about building modern, responsive, and user-focused web applications. I enjoy transforming ideas and designs into functional digital experiences, developing websites for real businesses, and integrating dynamic content through modern web technologies.
+I build modern, responsive web applications and websites for real-world businesses. My experience includes production website development, translating designs into responsive interfaces, integrating content management systems, working with APIs, and deploying web applications.
 
-I have hands-on experience delivering production websites for businesses and clients, with a focus on clean UI, responsive design, reusable components, CMS integration, and deployment.
+🌍 Based in Pakistan · 💻 Building digital experiences for businesses worldwide
 
-🌍 Based in Pakistan | 💻 Building for businesses worldwide
-
----
-
-## 🚀 What I Do
-
-* 🌐 **Frontend Development:** Building modern interfaces using React, Next.js, JavaScript, and TypeScript.
-* 🎨 **Responsive UI Development:** Converting designs and Figma layouts into responsive web experiences.
-* ⚙️ **Full-Stack Development:** Developing web applications and integrating frontend interfaces with backend services and APIs.
-* 🔌 **CMS & API Integration:** Working with Sanity CMS and external APIs to manage and display dynamic content.
-* ☁️ **Deployment & Maintenance:** Deploying and maintaining production websites using modern development platforms.
-* 🤖 **AI-Powered Applications:** Exploring AI integrations and intelligent web applications.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://ahsanabbas-dev.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-ahsan693-181717?style=for-the-badge&logo=github)](https://github.com/ahsan693)
 
 ---
 
-## 💼 Selected Client Projects
+## 💼 Selected Projects
 
-I have worked on multiple real-world business websites, including projects for companies based in Ireland and the United States.
+My portfolio includes business websites and web applications built for clients and real-world use cases. The projects below are ordered with my latest work first.
 
-### 🎨 Art Gallery 23 — Ireland
+### 1. 🌿 Think Wild Media — Creative Production Agency
 
-A modern website developed for Art Gallery 23, an art gallery based in Dublin, Ireland.
+A modern website for Think Wild Media, a Dublin-based creator marketing and content agency.
 
-**Technologies:** Next.js · React · Tailwind CSS · HTML5
+**Tech Stack:** Next.js · Sanity CMS
 
-* Developed a responsive website with an image-focused presentation.
-* Created a clean layout to showcase the gallery and its work.
-* Focused on visual consistency and responsive user experience.
+**Highlights**
+- Developed a modern digital presence for a creative agency.
+- Worked with a content management system to support website content.
+- Focused on responsive layouts and a polished user experience.
+- Presented agency services, creative work, and business information through a structured website.
 
-🔗 **Live Website:** https://art-gallary23-ireland.vercel.app/
+🔗 **[Visit Live Website](https://www.thinkwildmedia.com/)**
+
+🔒 **Source Code:** Private — Client/Agency Project
+
+---
+
+### 2. ✈️ TravelMommy — Flight Search & Comparison Platform
+
+A travel website that helps users search for flights and compare options from airlines and travel providers for journeys between destinations worldwide.
+
+**Tech Stack:** Next.js · Flight Search/Provider Integration
+
+**Highlights**
+- Built a flight-search and comparison experience.
+- Created a search interface for departure and destination locations.
+- Supports comparing flight options, routes, and prices through integrated travel-provider data.
+- Designed destination discovery and travel-guide sections.
+- Provides a flow for users to continue booking with their selected airline or travel provider.
+
+🔗 **[Explore TravelMommy](https://travel-mommy-ten.vercel.app/)**
+
+**Project Type:** Travel Technology · Flight Comparison · Web Application
+
+---
+
+### 3. 🎨 Art Gallery 23 — Dublin, Ireland
+
+A website developed for Art Gallery 23, an art gallery based in Dublin, Ireland.
+
+**Tech Stack:** Next.js · React · Tailwind CSS · HTML5
+
+**Highlights**
+- Developed a responsive gallery website.
+- Created an image-focused presentation for the gallery's work.
+- Focused on visual consistency, layout, and responsive user experience.
+
+🔗 **[Visit Live Website](https://art-gallary23-ireland.vercel.app/)**
 
 🔒 **Source Code:** Private — Client Project
 
 ---
 
-### 🚗 Indus Motor Group — Ireland
+### 4. 🚗 Indus Motor Group — Ireland
 
-A professional automotive website developed for an Irish car sales business, with dynamic vehicle content managed through Sanity CMS.
+A professional automotive website for an Irish car sales business, with vehicle-related content managed through Sanity CMS.
 
-**Technologies:** React · JavaScript · HTML5 · CSS3 · Vite · Sanity CMS
+**Tech Stack:** React · JavaScript · HTML5 · CSS3 · Vite · Sanity CMS
 
-* Developed a responsive automotive business website.
-* Integrated Sanity CMS to manage vehicle-related content.
-* Built dynamic content sections for vehicle information.
-* Worked on responsive layouts and website improvements.
+**Highlights**
+- Developed responsive website layouts for an automotive business.
+- Integrated Sanity CMS for managing vehicle content.
+- Built dynamic sections for vehicle information.
+- Focused on content presentation and responsive design.
 
-🔗 **Live Website:** https://www.indusmotorgroup.ie/
-
-🔒 **Source Code:** Private — Client Project
-
----
-
-### 🏃 Sarlam Athletics — United States
-
-A modern website developed for a U.S.-based athletics company, with an emphasis on responsive design and a clean visual experience.
-
-**Technologies:** Next.js · React · Tailwind CSS · HTML5
-
-* Developed responsive website sections and layouts.
-* Built reusable components for consistent page structure.
-* Focused on clean presentation and user-friendly navigation.
-
-🔗 **Live Website:** https://www.sarlamathletics.com/
+🔗 **[Visit Live Website](https://www.indusmotorgroup.ie/)**
 
 🔒 **Source Code:** Private — Client Project
 
 ---
 
-### 💻 Dropline Media — Digital Agency
+### 5. 🏃 Sarlam Athletics — United States
+
+A modern website developed for a U.S.-based athletics company.
+
+**Tech Stack:** Next.js · React · Tailwind CSS · HTML5
+
+**Highlights**
+- Developed responsive website sections and layouts.
+- Built reusable components for a consistent interface.
+- Focused on navigation, visual presentation, and usability.
+
+🔗 **[Visit Live Website](https://www.sarlamathletics.com/)**
+
+🔒 **Source Code:** Private — Client Project
+
+---
+
+### 6. 💻 Dropline Media — Digital Agency
 
 A professional website developed for Dropline Media, a digital media and creative agency.
 
-**Technologies:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · Sanity CMS
+**Tech Stack:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · Sanity CMS
 
-* Developed a modern agency website with reusable components.
-* Worked on responsive layouts and interactive UI elements.
-* Integrated CMS functionality for content management.
-* Focused on performance, maintainability, and user experience.
+**Highlights**
+- Developed website sections using reusable components.
+- Worked on responsive layouts and interactive UI elements.
+- Integrated CMS functionality for content management.
+- Focused on maintainable components and user experience.
 
-🔗 **Live Website:** https://www.droplinemedia.com/
+🔗 **[Visit Live Website](https://www.droplinemedia.com/)**
 
 🔒 **Source Code:** Private — Agency Project
 
 ---
 
-### 🔐 Client Work & Source Code
+## 🔐 Client Projects & Source Code
 
-Several of my professional projects are maintained in private repositories because they were developed for clients or through an agency. Their source code, business logic, assets, and content may be subject to client ownership and confidentiality requirements.
+Some projects in my portfolio are maintained in private repositories because they were developed for clients or through an agency. Their source code, business logic, assets, and content may be subject to client ownership or confidentiality requirements.
 
-Where publicly available, I have included the live websites so visitors can explore the work.
+Where permitted, I showcase the live websites so visitors can explore the work without exposing private repositories or proprietary code.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-* React.js
-* Next.js
-* JavaScript (ES6+)
-* TypeScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Framer Motion
-* Responsive Web Design
+### CMS, APIs & Application Development
+- Sanity CMS
+- REST API integration
+- Dynamic content integration
+- Flight-search and travel-provider integration
+- Responsive web application development
 
-### Backend & API Development
+### UI, Animation & Design
+- Responsive and mobile-first interfaces
+- Figma-to-website implementation
+- Reusable UI components
+- Framer Motion
 
-* Node.js
-* Express.js
-* REST API Integration
-* Server-side Development
-
-### CMS & Databases
-
-* Sanity CMS
-* MongoDB
-* PostgreSQL
-* Firebase
-
-### Tools & Platforms
-
-* Git & GitHub
-* VS Code
-* Figma
-* Vercel
-* npm
-
-### Currently Exploring
-
-* AI-powered web applications
-* AI API integrations
-* Workflow automation
-* Modern full-stack application architecture
+### Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📂 Public Projects & Experiments
+## 📂 Public Repositories
 
-Alongside professional client work, I also work on personal projects, experiments, and open-source learning projects.
+Alongside my professional projects, I work on personal projects, experiments, and learning projects.
 
-Explore my public repositories:
-
-👉 **[github.com/ahsan693](https://github.com/ahsan693?tab=repositories)**
+🔎 **[Explore All My Repositories](https://github.com/ahsan693?tab=repositories)**
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsan693&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Ahsan's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsan693&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan693&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
 </p>
 
@@ -169,14 +186,14 @@ Explore my public repositories:
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new opportunities.
+I'm interested in software engineering opportunities, frontend and full-stack development, and collaborations on meaningful web projects.
 
-* 💼 **GitHub:** [ahsan693](https://github.com/ahsan693)
-* 🌐 **Portfolio:** [ahsanabbas-dev.vercel.app](https://ahsanabbas-dev.vercel.app)
-* 📧 **Email:** [221387@students.au.edu.pk](mailto:221387@students.au.edu.pk)
+- 💼 **GitHub:** [github.com/ahsan693](https://github.com/ahsan693)
+- 🌐 **Portfolio:** [ahsanabbas-dev.vercel.app](https://ahsanabbas-dev.vercel.app)
+- 📧 **Email:** [221387@students.au.edu.pk](mailto:221387@students.au.edu.pk)
 
 ---
 
 <p align="center">
-  <i>Building, learning, and improving — one project at a time.</i>
+  <i>Building real products, solving practical problems, and continuously improving.</i>
 </p>
